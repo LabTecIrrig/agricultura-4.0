@@ -1,0 +1,89 @@
+
+.header{
+        
+    background-color: rgba(74, 214, 43, 0.822);
+    width:100%;  
+    height:12%;  
+}
+
+.logoif{
+    width: 8%;
+    height:8%;    
+
+}
+.titleHeader{
+    position: absolute;
+    margin-top: -7% ;
+    margin-left: 44%;    
+    text-align: center ;    
+}
+
+
+
+.content{
+   
+    position: absolute;
+    margin-top: 0% ; 
+    margin-left: 40%;  
+
+}
+.titulo{
+  
+    height: 30% ;
+}
+.tabela{
+      
+    text-align: center;
+}
+.teste{
+    color: rgb(89, 0, 255);
+}
+.navbar-border-inf{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 40px;
+}
+.navbar-border-temp{
+    position: absolute;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.navbar-border-solo{
+    position: absolute;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+
+.navbar-border-graf{
+    position: absolute;
+    margin-left: 710px;
+    margin-top: 40px;
+}
+
+.navbar-border-sens{
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 40px;
+}
+
+.navbar-border-insta{
+    position: absolute;
+    margin-left: -150px;
+    margin-top: 70px;
+    color:azure;
+}
+
+.navbar-border-face{
+    position: absolute;
+    margin-left: -110px;
+    margin-top: 70px;
+    color:azure;
+}
+
+.navbar-border-wpp{
+    position: absolute;
+    margin-left: -70px;
+    margin-top: 70px;
+    color:azure;
+}

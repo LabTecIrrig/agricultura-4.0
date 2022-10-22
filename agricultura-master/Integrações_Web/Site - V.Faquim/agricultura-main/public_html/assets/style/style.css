@@ -1,0 +1,96 @@
+a{
+    text-decoration: none !important;
+}
+
+
+
+.cabecalho-tabela{
+    background-color:  #1cc88a!important;
+    color: #FFFFFF;
+}
+
+.tabela-chuva{
+    background-color:  #4e73df !important;
+    color: #FFFFFF;
+}
+
+.menu-item a{
+    color: #FFFFFF !important;
+}
+
+#box{
+    border: 1px solid red;
+    display: inline;
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+}
+
+#card-geral{
+    background-color: #FFFFFF;
+    margin-top: 30px;
+}
+
+#card-meteorologicos{
+    background-color: #F8F9FC;
+      
+}
+
+#card-solo{
+    background-color: #eaebed;
+}
+
+#card-geral a{
+    text-decoration: none !important;
+}
+
+#div-icon{
+    float: left;
+    display: inline;
+    padding: auto;
+    margin-right: 15px;
+    font-size: 20pt;
+}
+
+#div-text{
+    display: inline;
+    float: left;
+}
+
+.sensores{
+    text-align: center;
+    color: #FFFFFF;
+    padding: 40px;
+}
+
+
+.titulo{
+    text-align: center;
+    color: #FFFFFF;
+}
+.titulo-meteorologico{
+    margin-bottom: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: #F8F9FC;
+}
+
+.titulo-solo{
+    margin-bottom: 0px;
+    padding: 20px;
+    text-align: center;
+    background-color: #eaebed;
+}
+
+
+
+
+#centrais{
+    display: block;
+    float: left;
+    border: 1px solid red;
+}
+
+
+
+
